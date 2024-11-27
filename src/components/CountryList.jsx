@@ -3,7 +3,6 @@ import styles from "./CountryList.module.css";
 import Spinner from "./Spinner";
 import Message from "./Message";
 
-/* eslint-disable react/jsx-key */
 
 function CountryList({ cities, isLoading }) {
   if (isLoading) return <Spinner />;
