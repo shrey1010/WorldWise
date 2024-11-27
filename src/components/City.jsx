@@ -1,5 +1,5 @@
 import styles from "./City.module.css";
-import { useParams } from "react-router-dom";
+// import { useParams } from "react-router-dom";
 
 const formatDate = (date) =>
   new Intl.DateTimeFormat("en", {
@@ -11,7 +11,7 @@ const formatDate = (date) =>
 
 function City() {
 
-  const {id} = useParams();
+  // const {id} = useParams();
   // TEMP DATA
   const currentCity = {
     cityName: "Lisbon",
