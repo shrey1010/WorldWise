@@ -12,7 +12,6 @@ const formatDate = (date) =>
     year: "numeric",
     weekday: "long",
   }).format(new Date(date));
-/* eslint-disable no-unused-vars */
 
 function City() {
 

@@ -16,21 +16,22 @@ export function convertToEmoji(countryCode) {
     .map((char) => 127397 + char.charCodeAt());
   return String.fromCodePoint(...codePoints);
 }
-
+/* eslint-disable no-unused-vars */
 function Form() {
   
   const [cityName, setCityName] = useState("");
   const [country, setCountry] = useState("");
-  const { lat, lng } = useUrlPosition();
+  const [ lat, lng ] = useUrlPosition();
   const [date, setDate] = useState(new Date());
   const [notes, setNotes] = useState("");
-  const [isLoadingGeocoding, setIsLoadingGeocoding] = useState(false);
+  const [isLoadingGeocoding, setIsLoadingGeocoding] = useState(true);
   const [emoji ,setEmoji] = useState("");
   const [geocodingError, setGeocodingError] = useState(null);
 
 
   useEffect(function(){
     async function fetchCityData() {
+      if (lat == null || lng == null) return;
       try {
         setIsLoadingGeocoding(true);
         setGeocodingError(null);
@@ -48,10 +49,9 @@ function Form() {
         alert("Error fetching city data");
         setGeocodingError(err.message);
       } finally {
-        setIsLoadingGeocoding(false);
+        setIsLoadingGeocoding(true);
       }
     }
-    if (!lat && !lng) return;
     fetchCityData();
   }
   ,[lat,lng]);
