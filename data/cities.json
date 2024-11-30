@@ -49,30 +49,6 @@
       }
     },
     {
-      "id": "2b39",
-      "cityName": "Mumbai",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-11-30T19:44:31.065Z",
-      "notes": "",
-      "position": {
-        "lat": "19.041348796589013",
-        "lng": "72.88330078125001"
-      }
-    },
-    {
-      "id": "eec5",
-      "cityName": "Mumbai",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-11-30T19:44:31.065Z",
-      "notes": "",
-      "position": {
-        "lat": "19.041348796589013",
-        "lng": "72.88330078125001"
-      }
-    },
-    {
       "id": "e471",
       "cityName": "Caceres",
       "country": "Spain",
@@ -97,126 +73,6 @@
       }
     },
     {
-      "id": "be1f",
-      "cityName": "Bhopal",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-11-30T19:48:39.910Z",
-      "notes": "",
-      "position": {
-        "lat": "23.28171917560003",
-        "lng": "77.40966796875001"
-      }
-    },
-    {
-      "id": "d761",
-      "cityName": "Bhopal",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-11-30T19:48:39.910Z",
-      "notes": "",
-      "position": {
-        "lat": "23.28171917560003",
-        "lng": "77.40966796875001"
-      }
-    },
-    {
-      "id": "3334",
-      "cityName": "Bhopal",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-11-30T19:48:39.910Z",
-      "notes": "",
-      "position": {
-        "lat": "23.28171917560003",
-        "lng": "77.40966796875001"
-      }
-    },
-    {
-      "id": "8794",
-      "cityName": "Bhopal",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-11-30T19:48:39.910Z",
-      "notes": "",
-      "position": {
-        "lat": "23.28171917560003",
-        "lng": "77.40966796875001"
-      }
-    },
-    {
-      "id": "9c3f",
-      "cityName": "Bhopal",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-11-30T19:48:39.910Z",
-      "notes": "",
-      "position": {
-        "lat": "23.28171917560003",
-        "lng": "77.40966796875001"
-      }
-    },
-    {
-      "id": "b9dc",
-      "cityName": "Bhopal",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-11-30T19:48:39.910Z",
-      "notes": "",
-      "position": {
-        "lat": "23.28171917560003",
-        "lng": "77.40966796875001"
-      }
-    },
-    {
-      "id": "a7b3",
-      "cityName": "Bhopal",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-11-30T19:48:39.910Z",
-      "notes": "",
-      "position": {
-        "lat": "23.28171917560003",
-        "lng": "77.40966796875001"
-      }
-    },
-    {
-      "id": "ab52",
-      "cityName": "Bhopal",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-11-30T19:48:39.910Z",
-      "notes": "",
-      "position": {
-        "lat": "23.28171917560003",
-        "lng": "77.40966796875001"
-      }
-    },
-    {
-      "id": "f0eb",
-      "cityName": "Bhopal",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-11-30T19:48:39.910Z",
-      "notes": "",
-      "position": {
-        "lat": "23.28171917560003",
-        "lng": "77.40966796875001"
-      }
-    },
-    {
-      "id": "7ca5",
-      "cityName": "Bhopal",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-11-30T19:48:39.910Z",
-      "notes": "",
-      "position": {
-        "lat": "23.28171917560003",
-        "lng": "77.40966796875001"
-      }
-    },
-    {
       "id": "e97a",
       "cityName": "Mirzapur",
       "country": "India",
@@ -234,18 +90,6 @@
       "country": "India",
       "emoji": "🇮🇳",
       "date": "2024-11-30T19:58:40.190Z",
-      "notes": "",
-      "position": {
-        "lat": "26.46073804319089",
-        "lng": "80.33203125"
-      }
-    },
-    {
-      "id": "ec47",
-      "cityName": "Kanpur",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-11-30T19:59:01.114Z",
       "notes": "",
       "position": {
         "lat": "26.46073804319089",
